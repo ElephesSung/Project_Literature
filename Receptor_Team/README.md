@@ -23,7 +23,7 @@
 # 1. The mathematical model and TCR signalling
 
 Literature in this category can be found in the subfolder: 
-`[TCR](./Receptor_Team/TCR/)`
+`[TCR](TCR/)`
 
 > T-cell receptors (TCRs) recognise peptide–MHC (pMHC) complexes and discriminate foreign from self via peptide-dependent binding and signalling thresholds; agonist pMHC generally produce longer-lived interactions and stronger signals than self pMHC.
 
