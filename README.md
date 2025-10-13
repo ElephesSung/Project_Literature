@@ -5,7 +5,7 @@
 
 ## NK cell receptor coupling/cooperativity.
 
-`[Receptor_Team](./Receptor_Team/)`
+`[Receptor_Team](./TCR/)`
 
 > The question to be answered:
 > - How the difference between flux and the concentration of the activating receptor influence the quantification of NK cell activation.
