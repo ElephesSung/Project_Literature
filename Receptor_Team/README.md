@@ -177,41 +177,40 @@ Instead, it performs a protective function, not a stimulatory one.
 ### Key results
 
 
-<div style="display: flex; align-items: flex-start; gap: 2em;">
-    <div style="flex: 1; min-width: 250px;">
-        <figure>
-            <img src="./TCR/pq1011136004.jpeg" width="100%">
-            <figcaption><b>Fig. 4.</b> Effects of receptor crosstalk on specificity and sensitivity.</figcaption>
-        </figure>
-    </div>
-    <div style="flex: 1; min-width: 250px;">
-        <!-- Add your explanatory text here -->
-            <ul>
-                <li><b>Figure 4a – No cooperativity:</b>
-                    <ul>
-                        <li>TCRs respond to both high- and low-affinity ligands if ligand density is high.</li>
-                        <li>Poor specificity: weak ligands can fully activate TCRs at high concentrations.</li>
-                        <li>Broad activation curve → ligand discrimination is unreliable.</li>
-                    </ul>
-                </li>
-                <li><b>Figure 4b – With spreading inhibition:</b>
-                    <ul>
-                        <li>Partially activated TCRs inhibit neighbours.</li>
-                        <li>Activation is restricted to ligands near optimal koff.</li>
-                        <li>Specificity improves sharply.</li>
-                        <li>Tradeoff: overall sensitivity is reduced (fewer TCRs activate).</li>
-                    </ul>
-                </li>
-                <li><b>Figure 4c – With inhibition + protection:</b>
-                    <ul>
-                        <li>Fully activated TCRs protect neighbours from inhibition.</li>
-                        <li>Sensitivity is restored without sacrificing much specificity.</li>
-                        <li>Balanced response: sharp peak around optimal koff, higher overall activation.</li>
-                    </ul>
-                </li>
-            </ul>
-    </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./TCR/pq1011136004.jpeg" width="100%"><br>
+      <b>Fig. 4.</b> Effects of receptor crosstalk on specificity and sensitivity.
+    </td>
+    <td width="50%">
+      <ul>
+        <li><b>Figure 4a – No cooperativity:</b>
+          <ul>
+            <li>TCRs respond to both high- and low-affinity ligands if ligand density is high.</li>
+            <li>Poor specificity: weak ligands can fully activate TCRs at high concentrations.</li>
+            <li>Broad activation curve → ligand discrimination is unreliable.</li>
+          </ul>
+        </li>
+        <li><b>Figure 4b – With spreading inhibition:</b>
+          <ul>
+            <li>Partially activated TCRs inhibit neighbours.</li>
+            <li>Activation is restricted to ligands near optimal koff.</li>
+            <li>Specificity improves sharply.</li>
+            <li>Tradeoff: overall sensitivity is reduced (fewer TCRs activate).</li>
+          </ul>
+        </li>
+        <li><b>Figure 4c – With inhibition + protection:</b>
+          <ul>
+            <li>Fully activated TCRs protect neighbours from inhibition.</li>
+            <li>Sensitivity is restored without sacrificing much specificity.</li>
+            <li>Balanced response: sharp peak around optimal koff, higher overall activation.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 <br>
