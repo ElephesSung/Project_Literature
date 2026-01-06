@@ -3,9 +3,9 @@
 >
 >
 
-## NK cell receptor coupling/cooperativity.
+## Chapter 1. NK cell receptor coupling/cooperativity.
 
-`[Receptor_Team](./TCR/)`
+The literature folder is here: [Chapter1_folder](./Receptor_Team/)
 
 > The question to be answered:
 > - How the difference between flux and the concentration of the activating receptor influence the quantification of NK cell activation.
@@ -50,3 +50,25 @@ Notes:
 ## Receptor Coupling, cooperativity, simulations
 
  -->
+
+
+<br>
+<br>
+
+---
+
+
+## Chapter 2. Bayesian inference for contact-kill dynamics: theoretical project
+
+The literature folder is here: [Chapter2_folder](./contact-kill_Dynamics/)
+
+
+<br>
+<br>
+
+---
+
+
+## Chapter 3. GC dynamics
+
+The literature folder is here: [Chapter3_folder](./GC/)
